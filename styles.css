@@ -1,0 +1,149 @@
+body {
+  background-image: url(images/back1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+nav-s {
+  color: white;
+  text-decoration: none;
+}
+
+header{
+  position: relative;
+}
+
+.fab {
+  position: absolute;
+  right: 10px;
+  bottom: 30px;
+  font-size: 50px;
+}
+
+* {
+  font-family: Arial, sans-serif;
+}
+.nav-bar {
+  background-color: #748b8c;
+  display: flex;
+  height: 100px;
+}
+
+.card-box {
+  background-color: white;
+  width: 229px;
+  border: solid black 1px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 3px 3px 3px #7a8c74;
+  position: relative;
+}
+
+.top-link {
+  color: #0bdbe2;
+}
+
+.header-links {
+  display: flex;
+  text-decoration: none;
+  padding-top: 50px;
+
+}
+.top-row {
+  display: flex;
+  justify-content: space-around;
+  margin: ;
+}
+
+.bottom-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.shares-nav {
+  padding-right: 10px;
+}
+.playlist-nav {
+  padding-right: 10px;
+}
+
+.fab {
+  color: white;
+  justify-content: flex-end;
+}
+
+}
+.nav-image {
+  display: flex;
+  
+}
+.shares {
+  color: #73a3a2;
+}
+.images{
+  height: 150px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  border: solid black;
+  color: white;
+
+}
+.image1 {
+  background-image: url(images/wash.jpg);
+}
+.image2 {
+  background-image: url(images/nyg.jpg);
+}
+.image3 {
+  background-image: url(images/den.jpg)
+}
+
+.image4 {
+  background-image: url(images/eagles.jpg)
+}
+
+.image5 {
+  background-image: url(images/pan.jpg)
+}
+
+.image6 {
+  background-image: url(images/pats.jpg) 
+}
+
+.image7 {
+  background-image: url(images/tex.jpg);
+}
+
+.image8 {
+  background-image: url(images/san.jpg); 
+}
+.num {
+  margin-top: 0px;
+  float: right;
+}
+.view {
+  margin-top: 0px;
+  float: right;
+}
+
+.nav-bar {
+  background-image: url(images/banner.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Recipient {
+  font-weight: : bold;
+}
+
+.football{
+  color: white;
+  font-size: 30px;
+}
+.small-play-list {
+  background-color: #EFEFEF;
+  margin: 10px;
+}
+/*box-shadow*/
+
